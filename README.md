@@ -61,48 +61,24 @@ Missing Word Prompting
 
 Each technique is explained using a realistic scenario, the prompt given to the AI, the AI output, and its goal and advantages.
 
-**1. Straightforward Prompts**
-
-**Scenario**
-
-A student preparing for an exam wants quick and simple answers to basic science questions.
+# 1. Straightforward Prompts
 
 **Prompt Input**
-
-Define photosynthesis in one sentence.
-
-List three advantages of electric vehicles.
+1.Define artificial intelligence in one sentence.
+2.List three benefits of using renewable energy.
 
 **Prompt Output**
+1.Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think, learn, and solve problems.
+2.Benefits of renewable energy:
+Reduces environmental pollution
 
-Photosynthesis:
-Photosynthesis is the process by which green plants use sunlight, carbon dioxide, and water to produce food and oxygen.
+Provides sustainable and unlimited energy sources
 
-Advantages of Electric Vehicles
+Decreases dependence on fossil fuels
 
-They produce zero tailpipe emissions.
 
-They reduce dependence on fossil fuels.
+# 2. Tabular Format Prompting**
 
-They have lower maintenance costs.
-
-**Goal**
-
-To obtain clear and direct answers quickly without requiring complex instructions.
-
-**Advantages**
-
-Simple and easy to write prompts
-
-Faster responses from AI
-
-Useful for quick learning and short explanations
-
-**2. Tabular Format Prompting**
-
-**Scenario**
-
-An engineering student needs to compare technical concepts and programming languages for a class report. A table helps present the information clearly.
 
 **Prompt Input**
 
@@ -117,79 +93,30 @@ AC vs DC Current Comparison
 <img width="1536" height="1024" alt="ChatGPT Image Mar 9, 2026, 02_06_29 PM" src="https://github.com/user-attachments/assets/00efe218-b7f5-4f26-9056-54366c6227c8" />
 
 
-**Goal**
 
-To organize information in a structured and easy-to-compare format.
-
-**Advantages**
-
-Improves readability
-
-Makes comparisons easier
-
-Useful for reports, presentations, and research
-
-**3. Preceding Question Prompting**
-
-**Scenario**
-
-A teacher wants students to understand complex global and medical concepts by first asking guiding questions.
+# 3. Preceding Question Prompting
 
 **Prompt Input**
-
-Why is climate change a global concern? Explain how greenhouse gases contribute to global warming.
-
-How do vaccines work? Describe the process of immunization in simple terms.
+1.Why is recycling important for the environment? Explain how recycling helps reduce pollution.”
+2.How does the internet work? Explain the role of servers and networks in data communication.”
 
 **Prompt Output**
 
-Climate Change Explanation
-Climate change is a global concern because it causes rising temperatures, melting ice caps, extreme weather events, and rising sea levels. Greenhouse gases such as carbon dioxide trap heat in the Earth's atmosphere, leading to global warming.
+1.Recycling is important because it reduces waste and conserves natural resources. By reusing materials such as paper, plastic, and metal, recycling decreases the amount of garbage sent to landfills and reduces pollution caused by manufacturing new products
 
-Vaccines Explanation
-Vaccines work by introducing a weakened or inactive form of a pathogen into the body. This helps the immune system recognize the pathogen and produce antibodies, providing protection against future infections.
+2.The internet works through a global network of interconnected computers. Servers store and deliver data, while networks transmit this data through cables, routers, and wireless systems so users can access websites and online services.
 
-**Goal**
 
-To guide the AI to produce detailed and logical explanations.
+# 4. Missing Word Prompting
 
-**Advantages**
-
-Encourages deeper reasoning
-
-Produces well-structured answers
-
-Useful for complex topics and educational content
-
-**4. Missing Word Prompting**
-
-**Scenario**
-
-A teacher creates fill-in-the-blank questions to test students' knowledge in geography and biology.
 
 **Prompt Input**
-
-The capital of France is _____.
-
-In photosynthesis, plants absorb sunlight to produce _____.
+1.The largest planet in the solar system is ____.
+2.Water boils at ____ degrees Celsius at standard atmospheric pressure.
 
 **Prompt Output**
-
-The capital of France is Paris.
-
-In photosynthesis, plants absorb sunlight to produce glucose (food) and oxygen.
-
-**Goal**
-
-To test knowledge and reinforce key concepts.
-
-**Advantages**
-
-Useful for quizzes and assessments
-
-Encourages memory recall
-
-Helps reinforce learning concepts
+The largest planet in the solar system is Jupiter.
+Water boils at 100 degrees Celsius at standard atmospheric pressure.
 
 # RESULT:
 
