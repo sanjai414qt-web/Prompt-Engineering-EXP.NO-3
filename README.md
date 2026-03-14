@@ -65,10 +65,12 @@ Each technique is explained using a realistic scenario, the prompt given to the 
 # 1. Straightforward Prompts
 
 **Prompt Input**
+
 1.Define artificial intelligence in one sentence.
 2.List three benefits of using renewable energy.
 
 **Prompt Output**
+
 1.Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think, learn, and solve problems.
 2.Benefits of renewable energy:
 Reduces environmental pollution
@@ -83,11 +85,12 @@ Decreases dependence on fossil fuels
 
 **Prompt Input**
 
-Compare and contrast AC and DC current in a table.
+1.Compare and contrast AC and DC current in a table.
 
-Provide a table listing five programming languages, their paradigms, and one use case each.
+2.Provide a table listing five programming languages, their paradigms, and one use case each.
 
 **Prompt Output**
+
 AC vs DC Current Comparison
 
 <img width="1536" height="1024" alt="ChatGPT Image Mar 9, 2026, 02_04_55 PM" src="https://github.com/user-attachments/assets/9d668ac7-6bda-4e45-b9bf-f5c8d60430a5" />
