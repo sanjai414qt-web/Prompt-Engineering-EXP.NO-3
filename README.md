@@ -1,6 +1,6 @@
-EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+# EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
+# Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
 
 1.Straightforward Prompts
 
@@ -10,7 +10,7 @@ Aim: To write the prompts for the following prompt types for 2 different scenari
 
 4.Missing Word Prompting
 
-Explanation - Any one use case from Unit 5 or any 2 own use cases with the unit 2 Prompt type
+Explanation - Any one use case from Unit 5 or any 2 own use cases with the unit 2 Prompt type 
 
 Procedure:
 
@@ -44,7 +44,6 @@ Missing Word Prompting:
 
 # OUTPUT:
 
-**Introduction to Prompt Engineering**
 
 Prompt Engineering is the technique of designing clear and effective inputs (prompts) to guide Artificial Intelligence (AI) models to generate useful and accurate responses. A well-structured prompt helps the AI understand the task better and produce high-quality output.
 
